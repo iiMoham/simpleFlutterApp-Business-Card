@@ -1,4 +1,4 @@
-# mi_card
+# Business Card
 
 A new Flutter project.
 
